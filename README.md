@@ -88,7 +88,7 @@ AEGIS는 공항 주변 조류를 인식하고 위치와 움직임을 분석해 �
 
 ### Core Technologies
 
-Python · C++ · OpenCV · PyTorch · YOLO · ResNet-18 · stereo vision · FoundationStereo
+Python · C++ · OpenCV · PyTorch · YOLO · ResNet-18 · stereo vision · depth estimation
 
 ### System Technologies
 
