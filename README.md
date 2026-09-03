@@ -71,7 +71,7 @@ AEGIS는 공항 주변 조류를 인식하고 위치와 움직임을 분석해 �
 
 #### Links
 
-<a href="https://github.com/Kimjw2024/2026ESWContest_free_AEGIS">
+<a href="https://github.com/Kimjw2024/AEGIS">
   <img src="https://img.shields.io/badge/My%20AEGIS%20Portfolio%20Repository-6A5ACD?style=flat-square&logo=github&logoColor=white" alt="My AEGIS portfolio repository">
 </a>
 <a href="https://github.com/tigerjueun/2026ESWContest_free_AEGIS">
