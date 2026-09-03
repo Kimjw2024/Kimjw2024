@@ -45,7 +45,7 @@
 AEGIS는 공항 주변 조류를 인식하고 위치와 움직임을 분석해 위험 상황에 대응하는 것을 목표로 하는 공동 프로젝트입니다. 2대의 Raspberry Pi와 4대 카메라에서 영상을 수집하고, multi-baseline stereo vision으로 조류의 3D 위치를 추정한 뒤 tracking, 위험도 판단, dual pan-tilt response까지 연결했습니다.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/tigerjueun/2026ESWContest_free_AEGIS/main/assets/system/system_overview.png" alt="AEGIS integrated prototype" width="820">
+  <img src="https://raw.githubusercontent.com/Kimjw2024/AEGIS/main/assets/system/system_overview.png" alt="AEGIS integrated prototype" width="820">
 </p>
 
 #### System Highlights
